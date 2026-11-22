@@ -1,0 +1,1 @@
+Add your chosen image files to this folder. See README.txt for how to link them in index.html.
